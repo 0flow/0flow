@@ -1,1 +1,1 @@
-<a href="https://githubroast.dev/u/0flow"><img src="https://githubroast.dev/api/card/0flow" alt="GitHub Roast" width="600" /></a>
+[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/0flow)](https://githubroast.dev/u/0flow)
